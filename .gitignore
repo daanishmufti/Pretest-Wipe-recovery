@@ -1,0 +1,5 @@
+reports/
+allowlist.conf
+*.img
+__pycache__/
+*.pyc
